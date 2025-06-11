@@ -36,6 +36,3 @@ This project is a Library Management System built using MySQL. It manages data a
 1. Import the `library.sql` file into your MySQL environment.
 2. Run the provided SQL queries.
 3. Refer to screenshots for expected output.
-
-## 🔗 Submission
-Project submitted for academic evaluation.Date: 2025-06-11
